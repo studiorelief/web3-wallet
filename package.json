@@ -52,6 +52,10 @@
     "typescript": "^5.0.3"
   },
   "dependencies": {
-    "@finsweet/ts-utils": "^0.39.1"
+    "@finsweet/ts-utils": "^0.39.1",
+    "@wagmi/core": "^0.10.10",
+    "@web3modal/ethereum": "^2.3.6",
+    "@web3modal/html": "^2.3.6",
+    "ethers": "^5"
   }
 }
